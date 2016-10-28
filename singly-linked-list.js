@@ -6,9 +6,7 @@ var ListNode = function(val) {
     this.next = null;
 };
 function LinkedList() {
-
-
-
+    
     this.length = 0;
     this.head = null;
 
